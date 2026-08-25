@@ -302,7 +302,6 @@ AI
 
 ## 📊 GitHub Stats
 
-```html
 <p align="center">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=yash31-sen&show_icons=true&theme=tokyonight&hide_border=true"
@@ -323,7 +322,7 @@ AI
     alt="GitHub Streak"
   />
 </p>
-```
+
 
 
 ---
