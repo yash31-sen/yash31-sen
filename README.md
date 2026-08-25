@@ -27,7 +27,7 @@ Currently focused on strengthening my expertise in **Java, Spring Boot, SQL, AWS
 
 ### Languages
 
-![Java](https://shields.io)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
@@ -271,7 +271,7 @@ Worked on projects involving:
 
 ## 🎯 2026 Goals
 
-
+```text
 Java
   ├── Advanced Core Java
   ├── Multithreading
@@ -296,11 +296,21 @@ AI
   ├── Python
   ├── GenAI
   └── LLM Applications
+```
 
-
-
+---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
 
 ## 🤝 Let's Connect
 
