@@ -316,13 +316,13 @@ AI
   />
 </p>
 
+
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=yash31-sen&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=yash31-sen"
     alt="GitHub Streak"
   />
 </p>
-
 
 
 ---
