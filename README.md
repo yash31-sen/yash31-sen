@@ -317,12 +317,12 @@ AI
 </p>
 
 
-<p align="center">
+<!-- <p align="center">
   <img
     src="[https://streak-stats.demolab.com/?user=yash31-sen](https://streak-stats.demolab.com/?user=yash31-sen&utm_source=chatgpt.com)"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 
 ---
