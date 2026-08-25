@@ -302,13 +302,17 @@ AI
 
 ## 📊 GitHub Stats
 
+```html
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=yash31-sen&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=yash31-sen&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
     alt="GitHub Stats"
   />
+  
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash31-sen&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yash31-sen&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
     alt="Top Languages"
   />
 </p>
@@ -319,6 +323,8 @@ AI
     alt="GitHub Streak"
   />
 </p>
+```
+
 
 ---
 
